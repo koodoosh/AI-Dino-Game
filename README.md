@@ -1,6 +1,6 @@
 # 🦖 Dino AI Game – NEAT + Pygame
 
-An AI-powered version of the classic Chrome Dino game where autonomous agents learn to jump over obstacles using **NeuroEvolution of Augmenting Topologies (NEAT)** and **reinforcement learning**. Built with Python and Pygame.
+An AI-powered version of the classic Chrome Dino game where autonomous agents learn to jump over obstacles using **NeuroEvolution of Augmenting Topologies (NEAT)** and **reinforcement learning**. Built with Python (--version 3.9 or lower) and Pygame.
 
 ---
 
